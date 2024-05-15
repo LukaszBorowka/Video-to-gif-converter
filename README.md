@@ -1,1 +1,1 @@
-"# Video-to-gif-converter" 
+# Video-to-gif-converter
